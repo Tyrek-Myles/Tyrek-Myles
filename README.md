@@ -16,8 +16,6 @@ and building tools that help people think, track, and create more efficiently.
 **Other:** AI/LLMs
 
 ---
-
-## 📌 Featured Projects
 Here’s what I’m currently focusing on:
 
 ### **📝 AI assisted terminal journal**
@@ -25,8 +23,7 @@ A Linux journaling software that timestamps each entry and saves everything to o
 ---
 
 ## 🌱 What I'm Learning Now
-- Backend development  
-- Linux systems & dev environments   
+- Backend development    
 - Local AI model integration
 
 ---
